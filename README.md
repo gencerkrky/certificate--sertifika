@@ -24,3 +24,7 @@ Gencer Karakaya
 [Gencer Karakaya-Web Programlama101.pdf](https://github.com/gencerkrky/certificate--sertifika/files/10286604/Gencer.Karakaya-Web.Programlama101.pdf)<br>
 [Gencer Karakaya-Web Programlama201.pdf](https://github.com/gencerkrky/certificate--sertifika/files/10286605/Gencer.Karakaya-Web.Programlama201.pdf)<br>
 [Gencer Karakaya-Web Programlama301.pdf](https://github.com/gencerkrky/certificate--sertifika/files/10286606/Gencer.Karakaya-Web.Programlama301.pdf)<br>
+
+[Gencer Karakaya-Web Programlama301.pdf](https://www.webtures.com/certificate/verify/googleanalytics420230427/5900-gencerkarakaya/)<br>
+[Gencer Karakaya-Web Programlama301.pdf](https://www.webtures.com/certificate/verify/seoyolharitasibelirlemekilavuzu20230413/7769-gencerkarakaya/)<br>
+
