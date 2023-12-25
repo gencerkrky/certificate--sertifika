@@ -4,14 +4,14 @@ Gencer Karakaya
 Shopify Badge<br><br>
 
 <div>
-![Product Education Upgrade Shopify Checkout](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5aafa6e4-2850-40d9-9854-d015d58ef352)
-![Foundations Introduction to Marketing](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5588a858-6542-4f55-9f42-fc3edb53ae50)
-![Foundations Introduction to Product Development Opportunities](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/87b47063-ea92-4b7b-be2f-8d60e0af1341)
-![Foundations Introduction to Shopify Data   Analytics](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/53363844-4759-4920-9f64-46f7b745db97)
-![Foundations Introduction to Working with Merchants](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/516817a6-889a-4088-a6b7-a2a3d0e79e65)
-![Foundations Introduction to Shopify Plus](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/6c4358a7-846a-4c09-9ab7-982c3e782a30)
-![Foundations Introduction to Cross Border Selling](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1d727c56-b8bf-4f22-953e-b89f493799cd)
-![Foundations Introduction to Shopify POS   Retail](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1b98f349-12d9-46fd-aad7-994e0a5b6ade)
+[Product Education Upgrade Shopify Checkout](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5aafa6e4-2850-40d9-9854-d015d58ef352)<br>
+![Foundations Introduction to Marketing](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5588a858-6542-4f55-9f42-fc3edb53ae50)<br>
+![Foundations Introduction to Product Development Opportunities](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/87b47063-ea92-4b7b-be2f-8d60e0af1341)<br>
+![Foundations Introduction to Shopify Data   Analytics](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/53363844-4759-4920-9f64-46f7b745db97)<br>
+![Foundations Introduction to Working with Merchants](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/516817a6-889a-4088-a6b7-a2a3d0e79e65)<br>
+![Foundations Introduction to Shopify Plus](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/6c4358a7-846a-4c09-9ab7-982c3e782a30)<br>
+![Foundations Introduction to Cross Border Selling](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1d727c56-b8bf-4f22-953e-b89f493799cd)<br>
+![Foundations Introduction to Shopify POS   Retail](https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1b98f349-12d9-46fd-aad7-994e0a5b6ade)<br>
 </div>
 
 
